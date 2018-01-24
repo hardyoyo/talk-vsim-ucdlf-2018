@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Bree+Serif');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
 
 .reveal section img {
     border: 0;
@@ -6,7 +6,7 @@
 }
 
 .reveal h1,h2,h3,h4,h5,h6,h7,h8 {
-    font-family: 'Bree Serif', serif;
+    font-family: 'Roboto Slab', serif;
     font-weight: normal;
     letter-spacing: unset;
     text-transform: none;
