@@ -1,3 +1,9 @@
 ---
-# Gitpitch Sandbox
-This is my first Gitpitch slide, I created it so I can tinker with the CSS, to get it closer to my preferred slide style.
+# VSim: Getting the job done with DSpace
+## while avoiding all the traps of customization
+*****Hardy Pottinger**
+Digital Library Software Developer
+@fa[twitter] @hardy.pottinger
+@fa[envelope] hpottinger@library.ucla.edu
+
+--

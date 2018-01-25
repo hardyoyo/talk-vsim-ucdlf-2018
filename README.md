@@ -1,5 +1,7 @@
-# Hardy's Sandbox for Gitpitch Experiments
+# VSim: Getting the job done with DSpace, while avoiding all the traps of customization
 
-This is just a toy, to help me figure out how Gitpitch works, and whether it is a tool I can use.
+A short talk for UC-DLF, University of California, Riverside, February 27 - March 2, 2018
 
-* Slides: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/hardyoyo/gitpitch-sandbox)
+Abstract: This will be a brief case study of how UCLA Library customized an instance of DSpace 6x, to deliver all the business logic goals of the NEH-grant-funded VSim project, while avoiding making any major customization of DSpace internal code. We'll shine a spotlight on some code we borrowed from the DSpace community, and the ways we bent existing functionality to deliver a working repository of 3D Architectural models.
+
+* Slides: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/hardyoyo/talk-ucdlf-2018)
