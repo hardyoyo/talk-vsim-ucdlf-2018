@@ -72,7 +72,7 @@ VSim is *also* a ****repository* of 3D architectural models
 
 ---
 # What is DSpace
-* a very active community of developers, managers, and users, across the globe (24 active committers, over 150 contributors on GitHub)
+* a very active community of developers, managers, and users, across the globe (19 active committers, over 150 contributors on GitHub)
 * developers: dspace-devel@googlegroups.com
 * managers: dspace-community@googlegroups.com
 * tinyurl.com/dspace-dcat
