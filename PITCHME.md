@@ -29,13 +29,16 @@ VSim is *also* a ****repository* of 3D architectural models
 
 ---
 # VSim: we have use cases and design docs
-lots of 'em
+##lots of 'em
+(insert pics here)
 
 ---
 # VSim: proposed object model
+(insert a pic here)
 
 ---
-# The story of VSim, from Hardy's Perspective
+# The story of VSim
+## from Hardy's Perspective
 
 * set the scene: I'm a DSpace committer
 * I was hired at UCLA Library in August of 2017
