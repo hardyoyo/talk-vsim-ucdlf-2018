@@ -42,7 +42,7 @@ VSim is *also* a ****repository* of 3D architectural models
 
 * set the scene: I'm a DSpace committer
 * I was hired at UCLA Library in August of 2017
-* VSim use cases and design documents describe what ammounts to a standard repository site
+* VSim use cases and design documents describe what amounts to a standard repository site
 * LET'S USE DSPACE!
 
 ---
