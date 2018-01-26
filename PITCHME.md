@@ -23,13 +23,73 @@ VSim is a desktop software application for navigating and augementing 3D archite
 ---
 https://vsim.library.ucla.edu/xmlui/
 
-VSim is *also* a repository of 3d architectural models
+VSim is *also* a ****repository* of 3D architectural models
 
 > ...preserves academically generated models for use in both formal and informal educational settings. Scholars across the country have constructed these models to exacting standards, so they are ideal teaching and learning resources.
 
---
-# What is DSpace?
+---
+# VSim: we have use cases and design docs
+lots of 'em
 
+---
+# VSim: proposed object model
+
+---
+# The story of VSim, from Hardy's Perspective
+
+* set the scene: I'm a DSpace committer
+* I was hired at UCLA Library in August of 2017
+* VSim use cases and design documents describe what ammounts to a standard repository site
+* DSpace powers 70% of the repositories of the world
+* LET'S USE DSPACE!
+
+---
+# What is DSpace? tl;dr
+* wikipedia.org/wiki/DSpace
+* youtube.com/user/dspacedirectvideos
+* youtube.com/watch?v=7dSNuBfTYeo
+* wiki.duraspace.org/display/DSDOC6x/Functional+Overview
+* www.wiki.ed.ac.uk/display/datashare
+
+---
+# What is DSpace?
+* community-driven open source repository software
+* a *Java Servlet* - requires a servlet container, like Tomcat, Jetty, JBoss, GlassFish
+* a set of Java-based utility *utility scripts*
+
+---
+# What is DSpace?
+* an *asset store* (filesystem or service) and
+* a *metadata store* (PostgreSQL or Oracle, not MySQl--yet)
+
+---
+# What is DSpace?
+* the most widely used repository software platform (open source or proprietary)
+* about 2,000 installations worldwide (120 countries)
+* 70% of all institutional repositories (according to an ACRL survey) run on DSpace
+
+---
+# What is DSpace
+* a very active community of developers, managers, and users, across the globe (24 active committers, over 150 contributors on GitHub)
+* developers: dspace-devel@googlegroups.com
+* managers: dspace-community@googlegroups.com
+* tinyurl.com/dspace-dcat
+* users: dspace-tech@googlegroups.com
+
+---
+# DSpace Data Model
+
+---
+# DSpace Data Model
+* This data model is "baked in" to DSpace
+* you can't really change it or customize it
+* But you *can* give it a "fancy coat of paint"
+  *i18n customization allows you to change any text you wish, on any page of DSpace
+  * example: "collection" can become "project"
 ---
 # Wait, you said the DSpace object model can't be changed?
 How did you ever git VSim data to fit the DSpace object model?
+
+---
+# It's complicated
+But we did it, 
