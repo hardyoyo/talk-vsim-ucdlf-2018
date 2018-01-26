@@ -1,5 +1,3 @@
-
-![](https://vsim.library.ucla.edu/xmlui/themes/Mirage2/images/vsim.png)
 # VSim
 ## Getting the job done with DSpace
 ## while avoiding all the traps of customization
