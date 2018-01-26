@@ -7,9 +7,9 @@ Hardy Pottinger
 
 Digital Library Software Developer, UCLA Library
 
-@hardy.pottinger
+@fa[twitter] @hardy.pottinger
 
-hpottinger@library.ucla.edu
+@fa[envelope] hpottinger@library.ucla.edu
 
 ---
 # What is VSim?
