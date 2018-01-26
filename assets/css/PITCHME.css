@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Bree+Serif');
-<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 .reveal section img {
     border: 0;
