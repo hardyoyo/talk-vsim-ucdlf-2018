@@ -13,13 +13,13 @@ Digital Library Software Developer, UCLA Library
 ---
 # What is VSim?
 +++
-#https://vsim.library.ucla.edu/xmlui/
+https://vsim.library.ucla.edu/xmlui/
 
 VSim is a desktop software application for navigating and augementing 3D architectural models
 
 > ... a simple-to-use interface for exploring computer models of historic sites and environments. Designed to support both teacher-centered presentations and student-centered assignments.
 ---
-#https://vsim.library.ucla.edu/xmlui/
+https://vsim.library.ucla.edu/xmlui/
 
 VSim is *also* a repository of 3d architectural models
 
