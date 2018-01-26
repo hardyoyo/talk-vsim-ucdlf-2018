@@ -40,7 +40,7 @@ lots of 'em
 # The story of VSim
 ## from Hardy's Perspective
 
-* set the scene: I'm a DSpace committer
+* I'm a DSpace committer
 * I was hired at UCLA Library in August of 2017
 * VSim use cases and design documents describe what amounts to a standard repository site
 * LET'S USE DSPACE!
