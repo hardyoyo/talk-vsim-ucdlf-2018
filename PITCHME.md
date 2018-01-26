@@ -57,7 +57,7 @@ VSim is *also* a ****repository* of 3D architectural models
 # What is DSpace?
 * community-driven open source repository software
 * a *Java Servlet* - requires a servlet container, like Tomcat, Jetty, JBoss, GlassFish
-* a set of Java-based utility *utility scripts*
+* a set of Java-based *utility scripts*
 
 ---
 # What is DSpace?
