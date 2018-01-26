@@ -23,7 +23,7 @@ VSim is a desktop software application for navigating and augmenting 3D architec
 ---
 https://vsim.library.ucla.edu/xmlui/
 
-VSim is *also* a ***repository of 3D architectural models
+VSim is *also* a repository of 3D architectural models
 
 > ...preserves academically generated models for use in both formal and informal educational settings. Scholars across the country have constructed these models to exacting standards, so they are ideal teaching and learning resources.
 
