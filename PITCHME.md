@@ -80,6 +80,7 @@ VSim is *also* a ****repository* of 3D architectural models
 
 ---
 # DSpace Data Model
+(insert pic of the data model)
 
 ---
 # DSpace Data Model
