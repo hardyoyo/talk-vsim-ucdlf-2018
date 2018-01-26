@@ -62,7 +62,7 @@ VSim is *also* a ****repository* of 3D architectural models
 ---
 # What is DSpace?
 * an *asset store* (filesystem or service) and
-* a *metadata store* (PostgreSQL or Oracle, not MySQl--yet)
+* a *metadata store* (PostgreSQL or Oracle)
 
 ---
 # What is DSpace?
