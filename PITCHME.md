@@ -29,7 +29,7 @@ VSim is also a *repository* of 3D architectural models
 
 ---
 # VSim: we have use cases and design docs
-##lots of 'em
+lots of 'em
 (insert pics here)
 
 ---
