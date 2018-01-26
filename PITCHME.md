@@ -87,8 +87,8 @@ VSim is *also* a ****repository* of 3D architectural models
 * This data model is "baked in" to DSpace
 * you can't really change it or customize it
 * But you *can* give it a "fancy coat of paint"
-  *i18n customization allows you to change any text you wish, on any page of DSpace
-  * example: "collection" can become "project"
+* i18n customization allows you to change any text you wish, on any page of DSpace
+* example: "collection" can become "project"
 ---
 # Wait, you said the DSpace object model can't be changed?
 How did you ever git VSim data to fit the DSpace object model?
