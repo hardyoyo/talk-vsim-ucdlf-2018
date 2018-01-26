@@ -3,7 +3,7 @@
 ## Getting the job done with DSpace
 ## while avoiding all the traps of customization
 
-***Hardy Pottinger
+Hardy Pottinger
 
 Digital Library Software Developer, UCLA Library
 
