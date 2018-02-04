@@ -94,5 +94,6 @@ VSim is also a *repository* of 3D architectural models
 How did you ever git VSim data to fit the DSpace object model?
 
 ---
-# It's complicated
-But we did it, 
+
+---?image=assets/images/VSimDataModel.png&size=auto
+
