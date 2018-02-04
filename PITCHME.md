@@ -92,5 +92,4 @@ VSim is also a *repository* of 3D architectural models
 ---
 # Wait, you said the DSpace object model can't be changed?
 How did you ever git VSim data to fit the DSpace object model?
----
 ---?image=assets/images/VSimDataModel.png&size=auto
