@@ -29,11 +29,11 @@ VSim is also a *repository* of 3D architectural models
 
 ---
 # VSim: we have use cases and design docs
----?image=assets/images/lots-of-em.png
+---?image=assets/images/lots-of-em.png&size=auto
 
 ---
 # VSim: proposed object model
----?image=assets/images/vsim-object-model.png
+---?image=assets/images/vsim-object-model.png&size=auto
 
 ---
 # The story of VSim
@@ -80,7 +80,7 @@ VSim is also a *repository* of 3D architectural models
 ---
 # DSpace Data Model
 
----?image=assets/images/DSpaceDataModel.png
+---?image=assets/images/DSpaceDataModel.png&size=auto
 
 ---
 # DSpace Data Model
