@@ -106,6 +106,8 @@ This might look familiar, if you've worked with the Portland Common Data Model, 
 * i18n customization allows you to change any text you wish, on any page of DSpace
 * example: "collection" can become "project"
 ---?image=assets/images/VSimDataModel.png&size=auto
+Note:
+This sums up the approach we started to pursue after discussing the limitations of the DSpace data model. Seems reasonable, right? Only, there's a problem.
 ---
 # Metadata Problem
 only one type of object in DSpace can have customized metadata
