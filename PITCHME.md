@@ -113,3 +113,28 @@ dc.title
 dc.type
 ```
 ---
+# DSpace Items
+## Can *also* have bespoke DC-like metadata
+```
+vsim.acknowledgements
+vsim.bibliography
+vsim.continent
+vsim.contributor
+vsim.keywords
+vsim.news
+vsim.peerreview.agency
+vsim.peerreview.status
+vsim.relation.archives
+vsim.relation.community
+vsim.relation.models
+vsim.relation.projectMaster
+vsim.relation.submissions
+vsim.reuse.submissions
+
+```
+---
+# Solution: a ProjectMaster Item
+# One item to rule them all!
+* all projects are entered as items in a special collection, called VSim Project Masters
+* all other containers required by the VSim archive are derived from these master Items
+* a series of custom curation scripts make all the magic happen
