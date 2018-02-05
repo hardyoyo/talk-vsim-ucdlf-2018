@@ -48,6 +48,7 @@ This is a sketch, I'll show a more refined version in a few minutes.
 # The story of VSim
 ## from Hardy's Perspective
 
+Note:
 * I'm a DSpace committer
 * I was hired at UCLA Library in August of 2017, my first big project: VSim
 * VSim use cases and design documents describe what amounts to a standard repository site
