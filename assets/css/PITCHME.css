@@ -34,3 +34,7 @@
 .reveal h2 {
   font-size: 1.4em;
 }
+
+code {
+  background: #222222;
+}
