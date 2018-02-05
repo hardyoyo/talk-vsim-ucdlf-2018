@@ -136,7 +136,7 @@ vsim.reuse.submissions
 # A ProjectMaster Item
 ## One item to rule them all!
 * all Vsim projects are entered as items in a special collection, called VSim Project Masters
-* all other containers required by the VSim archive are derived from these master Items
+* all other containers required by the VSim archive are derived from these master items
 * a series of custom curation scripts make all the magic happen
 ---
 # DSpace Curation System
