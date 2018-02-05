@@ -137,7 +137,7 @@ vsim.reuse.submissions
 * a series of custom curation scripts make all the magic happen
 ---
 # DSpace Curation
-* provides a simple way to manage routine content operations on a repository
+* provides a way to manage routine content operations on a repository
 * designed to encourage local extension
 * https://tinyurl.com/dspace-curation
 > This gives DSpace sites the ability to customize the behavior of their
