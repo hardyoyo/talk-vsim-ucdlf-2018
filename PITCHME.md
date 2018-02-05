@@ -99,3 +99,15 @@ only one type of object in DSpace can have customized metadata
 
 ![DSpace Item](assets/images/DSpaceItem.png)
 ---
+#DSpace Items Have Qualified Dublin Core metadata
+```
+dc.contributors
+dc.contributor.author
+dc.date.acessioned
+dc.date.issued
+cd.identifier.uri
+dc.description
+dc.description.abstract
+dc.title
+dc.type
+```
