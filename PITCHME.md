@@ -95,6 +95,7 @@ I can say a lot about DSpace, and I have a few more slides ready if anyone wants
 ---?image=assets/images/DSpaceDataModel.png&size=auto
 
 Note:
+We've got three major kinds of things here: items which contain bitstreams, collections which contain items, and communites which contain collections.
 This might look familiar, if you've worked with the Portland Common Data Model, the DSpace model pre-dates PCDM, and isn't nearly as flexible.
 
 ---
