@@ -52,24 +52,24 @@ VSim is also a *repository* of 3D architectural models
 * wiki.duraspace.org/display/DSDOC6x/Functional+Overview
 * www.wiki.ed.ac.uk/display/datashare
 
----
++++
 # What is DSpace?
 * community-driven open source repository software
 * a *Java Servlet* - requires a servlet container, like Tomcat, Jetty, JBoss, GlassFish
 * a set of Java-based *utility scripts*
 
----
++++
 # What is DSpace?
 * an *asset store* (filesystem or service) and
 * a *metadata store* (PostgreSQL or Oracle)
 
----
++++
 # What is DSpace?
 * the most widely used repository software platform (open source or proprietary)
 * about 2,000 installations worldwide (120 countries)
 * 70% of all institutional repositories (according to an ACRL survey) run on DSpace
 
----
++++
 # What is DSpace
 * a very active community of developers, managers, and users, across the globe (19 active committers, over 150 contributors on GitHub)
 * developers: dspace-devel@googlegroups.com
