@@ -10,8 +10,6 @@ Digital Library Software Developer, UCLA Library
 
 @fa[envelope] hpottinger@library.ucla.edu
 
-![License: CC-BY-SA-4.0](https://i.creativecommons.org/l/by-sa/4.0/80x15.png) This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
-
 ---
 # What is VSim?
 
