@@ -20,6 +20,9 @@ VSim is a desktop software application for navigating and augmenting 3D architec
 
 > ... a simple-to-use interface for exploring computer models of historic sites and environments. Designed to support both teacher-centered presentations and student-centered assignments.
 
+Note:
+VSim is 2 things: it is a desktop application for exploring 3d models, and a repository or archive of those models and related files
+
 ---
 https://vsim.library.ucla.edu/
 
@@ -31,16 +34,22 @@ VSim is also a *repository* of 3D architectural models
 # VSim: we have use cases and design docs
 ---?image=assets/images/lots-of-em.png&size=auto
 
+Note:
+Like all big projects, we have many design artifacts to guide our way. Out of all these materials, the key to understanding what we needed to build was the object model.
+
 ---
 # VSim: proposed object model
 ---?image=assets/images/vsim-object-model.png&size=auto
+
+Note:
+This is a sketch, I'll show a more refined version in a few minutes.
 
 ---
 # The story of VSim
 ## from Hardy's Perspective
 
 * I'm a DSpace committer
-* I was hired at UCLA Library in August of 2017
+* I was hired at UCLA Library in August of 2017, my first big project: VSim
 * VSim use cases and design documents describe what amounts to a standard repository site
 * LET'S USE DSPACE!
 
@@ -51,6 +60,9 @@ VSim is also a *repository* of 3D architectural models
 * youtube.com/watch?v=7dSNuBfTYeo
 * wiki.duraspace.org/display/DSDOC6x/Functional+Overview
 * www.wiki.ed.ac.uk/display/datashare
+
+Note:
+I can say a lot about DSpace, and I have a few more slides ready if anyone wants me to do so, but we'll skip them for now, to get on with the story. Where were we? Oh, yeah, data models.
 
 +++
 # What is DSpace?
@@ -81,6 +93,9 @@ VSim is also a *repository* of 3D architectural models
 # DSpace Data Model
 
 ---?image=assets/images/DSpaceDataModel.png&size=auto
+
+Note:
+This might look familiar, if you've worked with the Portland Common Data Model, the DSpace model pre-dates PCDM, and isn't nearly as flexible.
 
 ---
 # DSpace Data Model
