@@ -147,6 +147,8 @@ vsim.relation.submissions
 vsim.reuse.submissions
 
 ```
+Note:
+So, we had a dilemma: we had all this metadata specific to projects that we wanted to include, but the only thing that DSpace would allow us to customize (without major code changes) was DSpace items. Before giving, up, we decided to see if we could make it work. And we came up with an idea of...
 ---
 # A ProjectMaster Item
 ## One item to rule them all!
@@ -160,8 +162,11 @@ vsim.reuse.submissions
 * https://tinyurl.com/dspace-curation
 > This gives DSpace sites the ability to customize the behavior of their
 > repository without having to alter... the DSpace source code.
+
+Note:
+Sounds great, right? One small problem...
 ---
-# Curation scripts only work on objects in a certain state
+# Curation scripts stop working if the object changes state
 * DSpace items in a submission workflow are different than DSpace items archived
 in a repository
 * The curation system will happily *try* to shepherd an item through the transition
