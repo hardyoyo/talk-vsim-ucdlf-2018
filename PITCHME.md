@@ -95,5 +95,7 @@ How did you ever git VSim data to fit the DSpace object model?
 ---?image=assets/images/VSimDataModel.png&size=auto
 ---
 # Metadata Problem
-![DSpace Item](assets/images/DSpaceItem.png)
 only one type of object in DSpace can have customized metadata
+
+![DSpace Item](assets/images/DSpaceItem.png)
+---
