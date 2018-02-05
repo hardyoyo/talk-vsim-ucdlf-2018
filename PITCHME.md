@@ -190,7 +190,7 @@ The developer presenting the poster was my friend Dr. Andrea Schweer, a fellow D
 
 @fa[github] [github.com/uclalibrary/dspace/tree/ucla-vsim-6_x](https://github.com/uclalibrary/dspace/tree/ucla-vsim-6_x)
 
-@fa[fa-globe] [vsim.library.ucla.edu](https://vsim.library.ucla.edu/)
+@fa[link] [vsim.library.ucla.edu](https://vsim.library.ucla.edu/)
 
 ## attribution
 all infographics created with [yEd Graph Editor](https://www.yworks.com/products/yed)
