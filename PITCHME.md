@@ -14,14 +14,14 @@ Digital Library Software Developer, UCLA Library
 # What is VSim?
 
 ---
-https://vsim.library.ucla.edu/xmlui/
+https://vsim.library.ucla.edu/
 
 VSim is a desktop software application for navigating and augmenting 3D architectural models
 
 > ... a simple-to-use interface for exploring computer models of historic sites and environments. Designed to support both teacher-centered presentations and student-centered assignments.
 
 ---
-https://vsim.library.ucla.edu/xmlui/
+https://vsim.library.ucla.edu/
 
 VSim is also a *repository* of 3D architectural models
 
@@ -89,9 +89,6 @@ VSim is also a *repository* of 3D architectural models
 * but you *can* give it a "fancy coat of paint"
 * i18n customization allows you to change any text you wish, on any page of DSpace
 * example: "collection" can become "project"
----
-# Wait, you said the DSpace object model can't be changed?
-How did you ever git VSim data to fit the DSpace object model?
 ---?image=assets/images/VSimDataModel.png&size=auto
 ---
 # Metadata Problem
