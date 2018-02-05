@@ -107,7 +107,7 @@ This might look familiar, if you've worked with the Portland Common Data Model, 
 * example: "collection" can become "project"
 ---?image=assets/images/VSimDataModel.png&size=auto
 Note:
-This sums up the approach we started to pursue after discussing the limitations of the DSpace data model. Seems reasonable, right? Only, there's a problem.
+Each project will be a community, with three collections (vsim files, archives, and community submissions). This sums up the approach we started to pursue after discussing the limitations of the DSpace data model. Seems reasonable, right? Only, there's a problem.
 ---
 # Metadata Problem
 only one type of object in DSpace can have customized metadata
