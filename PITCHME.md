@@ -171,5 +171,5 @@ https://or2017.net/wp-content/uploads/2017/06/243.pdf
 all infographics created with [yEd Graph Editor](https://www.yworks.com/products/yed)
 using [yed-aws-palettes from Abesto](https://github.com/abesto/yed-aws-palettes)
 ## fonts
-[Bree Serif](https://fonts.google.com/specimen/Bree+Serif)
+[Bree Serif](https://fonts.google.com/specimen/Bree+Serif),
 [Open Sans](https://fonts.google.com/specimen/Open+Sans)
