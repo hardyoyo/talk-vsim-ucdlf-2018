@@ -94,5 +94,6 @@ VSim is also a *repository* of 3D architectural models
 How did you ever git VSim data to fit the DSpace object model?
 ---?image=assets/images/VSimDataModel.png&size=auto
 ---
-# Ooops, metadata problem
-![DSpace Item](assets/images/DSpaceItem.png)only one type of object in DSpace can have customized metadata
+# Metadata Problem
+![DSpace Item](assets/images/DSpaceItem.png)
+only one type of object in DSpace can have customized metadata
