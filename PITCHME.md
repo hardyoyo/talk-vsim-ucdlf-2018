@@ -139,7 +139,7 @@ vsim.reuse.submissions
 * all other containers required by the VSim archive are derived from these master items
 * a series of custom curation scripts make all the magic happen
 ---
-# DSpace Curation System
+# DSpace Curation
 * provides a simple way to manage routine content operations on a repository
 * designed to encourage local extension
 > This gives DSpace sites the ability to customize the behavior of their
