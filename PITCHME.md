@@ -200,9 +200,6 @@ The developer presenting the poster was my friend Dr. Andrea Schweer, a fellow D
 ## attribution
 all infographics created with [yEd Graph Editor](https://www.yworks.com/products/yed)
 using [yed-aws-palettes from Abesto](https://github.com/abesto/yed-aws-palettes)
-## fonts
-[Bree Serif](https://fonts.google.com/specimen/Bree+Serif),
-[Open Sans](https://fonts.google.com/specimen/Open+Sans)
 
 note:
 Sorry for such a hand-wavy ending. Seriously, if you're interested in finding out more about how we modified DSpace the code is all on Github. I've covered the unique things we've done, and how we made the changes with an eye towards avoiding altering the source code. I really like how we've used curation scripts to add on additional business logic. Those scripts should continue to run in future versions of DSpace. The remaining changes we've made are all standard DSpace kinds of things: front-end theme work with CSS and jquery, configuration. We borrowed some code from 4Science in Italy, to look up values from the Getty Thesaurus of Geographic Names. And we borrowed a patch to display the value of a contributor's Orcid, if we have it. But, those are just details, you're intested you can look at our code.
