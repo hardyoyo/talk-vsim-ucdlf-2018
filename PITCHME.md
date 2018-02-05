@@ -163,14 +163,13 @@ https://or2017.net/wp-content/uploads/2017/06/243.pdf
 ---
 # The rest is just details
 
-@fa[github] https://github.com/uclalibrary/dspace/tree/ucla-vsim-6_x
+@fa[github] [github.com/uclalibrary/dspace/tree/ucla-vsim-6_x](https://github.com/uclalibrary/dspace/tree/ucla-vsim-6_x)
 
-@fa[globe] https://vsim.library.ucla.edu/
+@fa[globe] [vsim.library.ucla.edu](https://vsim.library.ucla.edu/)
 
 ## attribution
 all infographics created with [yEd Graph Editor](https://www.yworks.com/products/yed)
 using [yed-aws-palettes from Abesto](https://github.com/abesto/yed-aws-palettes)
-
 ## fonts
 [Bree Serif](https://fonts.google.com/specimen/Bree+Serif)
 [Open Sans](https://fonts.google.com/specimen/Open+Sans)
