@@ -142,7 +142,8 @@ vsim.reuse.submissions
 > This gives DSpace sites the ability to customize the behavior of their
 > repository without having to alter - and therefore manage synchronization
 > with - the DSpace source code.
-https://wiki.duraspace.org/display/DSDOC6x/Curation+System
+
+https://tinyurl.com/dspace-curation
 ---
 # Curation scripts only work on objects in a certain state
 * DSpace items in a submission workflow are different than DSpace items archived
