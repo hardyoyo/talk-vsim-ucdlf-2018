@@ -183,6 +183,8 @@ https://or2017.net/wp-content/uploads/2017/06/243.pdf
 # IRR Team at ITS, the University of Waikato
 * https://uow-irrs.github.io/
 * https://tinyurl.com/dspace-queue-task-on-install
+Note:
+The developer presenting the poster was my friend Dr. Andrea Schweer, a fellow DSpace committer. In the past, whenever I've found out Andrea had a solution to a problem I had encountered, I would have to beg for weeks or months for her to share her code with me. This time was different, she had the code ready to share, and had built a whole site around sharing many of her customizations to DSpace. I recommend exploring that site there, if you work with DSpace at all, there are many treasures on that site.
 ---
 # The rest is just details
 
