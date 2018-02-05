@@ -10,6 +10,8 @@ Digital Library Software Developer, UCLA Library
 
 @fa[envelope] hpottinger@library.ucla.edu
 
+![License: CC-BY-SA-4.0](https://i.creativecommons.org/l/by-sa/4.0/80x15.png) This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
 ---
 # What is VSim?
 
@@ -145,5 +147,22 @@ vsim.reuse.submissions
 > This gives DSpace sites the ability to customize the behavior of their
 > repository without having to alter - and therefore manage synchronization
 > with - the DSpace source code.
-
 https://wiki.duraspace.org/display/DSDOC6x/Curation+System
+---
+# Curation scripts only work on objects in a certain state
+* DSpace items in a submission workflow are different than DSpace items archived
+in a repository
+* The curation system will happily *try* to shepherd an item through the transition
+from a workflow item to an archived item, but it will fail, quietly.
+* This is a bummer
+---
+# Surely somebody has fixed this, right?
+* The DSpace community is *full* of people who wrestle with quirky issues
+* One just has to ask for help, on a mail list or in a chat room
+* Or in person, at a conference, where they are presenting on their solution to
+this exact problem
+https://or2017.net/wp-content/uploads/2017/06/243.pdf
+---
+# IRR Team at ITS, the University of Waikato
+* https://uow-irrs.github.io/
+* https://tinyurl.com/dspace-queue-task-on-install
