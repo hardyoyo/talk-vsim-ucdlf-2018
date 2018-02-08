@@ -10,6 +10,8 @@ Digital Library Software Developer, UCLA Library
 
 @fa[envelope] hpottinger@library.ucla.edu
 
+slides: [github.com/hardyoyo/talk-vsim-ucdlf-2018](https://github.com/hardyoyo/talk-vsim-ucdlf-2018)
+
 ---
 # What is VSim?
 
