@@ -198,6 +198,7 @@ The developer presenting the poster was my friend Dr. Andrea Schweer, a fellow D
 @fa[envelope] hpottinger@library.ucla.edu
 
 slides: [github.com/hardyoyo/talk-vsim-ucdlf-2018](https://github.com/hardyoyo/talk-vsim-ucdlf-2018)
+
 all infographics created with [yEd Graph Editor](https://www.yworks.com/products/yed)
 using [yed-aws-palettes from Abesto](https://github.com/abesto/yed-aws-palettes)
 
